@@ -22,5 +22,4 @@ O objetivo é proporcionar uma base sólida para o desenvolvimento de aplicaçõ
 * Desenvolvimento Back-end
 
 ## Autor
-Rafael Viol
-Repositório utilizado nas aulas de **Laboratório Web**.
+Prof. Rafael V.
